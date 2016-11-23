@@ -1,0 +1,4 @@
+DailyChallenges/bin/
+DailyChallenges/obj/
+*.ncrunchsolution
+*.ncrunchproject
